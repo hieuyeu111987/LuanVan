@@ -1,0 +1,46 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.checked {
+  color: orange;
+}
+
+.fs-10{ font-size: 10%; }
+.fs-20{ font-size: 20%; }
+.fs-30{ font-size: 30%; }
+.fs-40{ font-size: 40%; }
+.fs-50{ font-size: 50%; }
+.fs-60{ font-size: 60%; }
+.fs-70{ font-size: 70%; }
+.fs-80{ font-size: 80%; }
+.fs-90{ font-size: 90%; }
+.fs-91{ font-size: 91%; }
+.fs-92{ font-size: 92%; }
+.fs-93{ font-size: 93%; }
+.fs-94{ font-size: 94%; }
+.fs-95{ font-size: 95%; }
+.fs-96{ font-size: 96%; }
+.fs-97{ font-size: 97%; }
+.fs-98{ font-size: 98%; }
+.fs-99{ font-size: 99%; }
+.fs-101{ font-size: 101%; }
+.fs-102{ font-size: 102%; }
+.fs-103{ font-size: 103%; }
+.fs-104{ font-size: 104%; }
+.fs-105{ font-size: 105%; }
+.fs-106{ font-size: 106%; }
+.fs-107{ font-size: 107%; }
+.fs-108{ font-size: 108%; }
+.fs-109{ font-size: 109%; }
+.fs-110{ font-size: 110%; }
+.fs-120{ font-size: 120%; }
+.fs-130{ font-size: 130%; }
+.fs-140{ font-size: 140%; }
+.fs-150{ font-size: 150%; }
+.fs-160{ font-size: 160%; }
+.fs-170{ font-size: 170%; }
+.fs-180{ font-size: 180%; }
+.fs-190{ font-size: 190%; }
+.fs-200{ font-size: 200%; }
